@@ -6,7 +6,7 @@ O objetivo do projeto é acessar e configurar um servidor linux para manter um s
 
 ### Acessar
 
-[ec2-54-85-25-170.compute-1.amazonaws.com](ec2-54-85-25-170.compute-1.amazonaws.com)
+[ec2-54-85-25-170.compute-1.amazonaws.com](http://ec2-54-85-25-170.compute-1.amazonaws.com)
 
 ### Endereços
 
